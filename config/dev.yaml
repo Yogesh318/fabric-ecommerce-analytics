@@ -1,0 +1,4 @@
+environment: development
+fabric:
+  workspace_name: ecommerce-analytics-dev
+  lakehouse_name: ecommerce_lakehouse

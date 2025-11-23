@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.csv
+!data/sample/*.csv
+.env
+*.log
+.pytest_cache/
+.coverage
+htmlcov/
